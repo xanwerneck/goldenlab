@@ -1,0 +1,5 @@
+# Ignore python objects
+*.pyc
+
+# Ignore pwa modules
+pwa/node_modules
